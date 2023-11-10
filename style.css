@@ -23,7 +23,7 @@ body {
 .list {
   background-color: #ff0058;
   padding: 0.7rem 0.3rem;
-  margin: 1.1rem;
+  margin: .8rem;
   display: flex;
   align-items: center;
   gap: 0.5rem;
